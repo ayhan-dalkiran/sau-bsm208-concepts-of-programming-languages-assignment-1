@@ -1,0 +1,47 @@
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.classpath
+.factorypath
+dist/
+
+# External tools and launch configurations
+.externalToolBuilders
+*.launch
+
+# CDTs
+.cproject
+.autotools
+
+# PDT
+.buildpath
+
+# sbteclipse
+.target
+
+# TeXlipse
+.texlipse
+
+# STS / Spring Boot
+.springBeans
+.sts4-cache
+
+### Java / Maven / Gradle specific (Highly Recommended) ###
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+build/
+.gradle/
